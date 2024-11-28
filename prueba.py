@@ -1,3 +1,6 @@
 class Humano:
-    """_sumary_
+    """_summary_
+    """
+class Personal:
+    """*args
     """
